@@ -5,13 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Filip's scene.unity
-    guid: 23511a1047adeca49ac4f7272399d0c4
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Anders' scene.unity
-    guid: 669c9326fbc1ff24583d362168be4173
+    path: Assets/Scenes/VR Demo Scene.unity
+    guid: ad046236c9efe0e468a0f8cfb8fca571
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: beb897014a1bc324a8b454789f9463f8
   m_configObjects: {}
